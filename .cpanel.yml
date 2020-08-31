@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=export DEPLOYPATH=/home/ylee868/repositories/FYSP2019_Swe
-    - /bin cp * $DEPLOYPATH    
+    - export DEPLOYPATH=export DEPLOYPATH=/home/WebstormProjects/FYSP2019_Swe
+    - /bin cp * $DEPLOYPATH
