@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ylee868/repositories/FYSP2019_Swe
+    - /bin/cp -R FYSP2019_Swe $DEPLOYPATH
