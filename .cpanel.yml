@@ -2,4 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=export DEPLOYPATH=/home/ylee868/repositories/FYSP2019_Swe
-    - cp -r * $DEPLOYPATH 
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp style.css $DEPLOYPATH
