@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=export DEPLOYPATH=/home/home/ylee868/repositories/FYSP2019_Swe
-    - /bin cp * $DEPLOYPATH
+    - export DEPLOYPATH=/home/cpanelUser/public_html/
+    - /bin/cp -R * $DEPLOYPATH
