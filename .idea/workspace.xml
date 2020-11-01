@@ -24,13 +24,34 @@
       <change beforePath="$PROJECT_DIR$/chairs.html" beforeDir="false" afterPath="$PROJECT_DIR$/chairs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home/HowToJoin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/howToJoin/HowToJoin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home/testimonials/Shivani Parmar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home/testimonials/nikki3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sponsor_us/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sponsor_us/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sponsor_us/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sponsor_us/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sponsor_us/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sponsor_us/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sponsor_us/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sponsor_us/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sponsor_us/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sponsor_us/Sponsors 2018-19.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sponsors.html" beforeDir="false" afterPath="$PROJECT_DIR$/sponsors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swe-sponsorship-package-final.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,16 +62,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.YAML" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/howToJoin" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images/chair " />
       <recent name="$PROJECT_DIR$/images/home" />
       <recent name="$PROJECT_DIR$/images/logos" />
-      <recent name="$PROJECT_DIR$/images/sponsor_us" />
-      <recent name="$PROJECT_DIR$/images/event" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,7 +90,13 @@
       <workItem from="1596326152003" duration="427000" />
       <workItem from="1598821786087" duration="1840000" />
       <workItem from="1598890821410" duration="2856000" />
-      <workItem from="1598911461743" duration="1251000" />
+      <workItem from="1598911461743" duration="1585000" />
+      <workItem from="1599027667116" duration="144000" />
+      <workItem from="1599356858306" duration="3177000" />
+      <workItem from="1599371372149" duration="1655000" />
+      <workItem from="1601796992611" duration="350000" />
+      <workItem from="1601830637298" duration="2209000" />
+      <workItem from="1604175349720" duration="2482000" />
     </task>
     <servers />
   </component>
@@ -91,14 +120,19 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="144" y="92" key="DiffContextDialog/0.23.1440.797@0.23.1440.797" timestamp="1596231682320" />
+    <state x="221" y="57" key="SettingsEditor" timestamp="1601797316130">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state x="221" y="57" key="SettingsEditor/0.23.1440.790@0.23.1440.790" timestamp="1601797316130" />
     <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1598853713936">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1596231701800" />
     <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1598853713936" />
-    <state x="386" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1596219667978">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="386" y="144" width="670" height="677" key="search.everywhere.popup" timestamp="1599372844323">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="386" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1596219667978" />
+    <state x="386" y="144" width="670" height="677" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1599372844323" />
   </component>
 </project>
