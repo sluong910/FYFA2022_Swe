@@ -83,7 +83,12 @@ h1, h2, h3, h4, h5,
   width:  500px;
   height: 200px;
   object-fit: contain;
-     
+}
+.img-membership-plans{
+  float: left;
+  width:  600px;
+  height: 200px;
+  object-fit: contain;
 }
 
 .line-height-1 {
