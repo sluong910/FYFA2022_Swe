@@ -78,6 +78,13 @@ h1, h2, h3, h4, h5,
     .btn.btn-black:hover {
       color: #000;
       background-color: #fff; }
+.img{
+  float: left;
+  width:  500px;
+  height: 200px;
+  object-fit: contain;
+     
+}
 
 .line-height-1 {
   line-height: 1 !important; }

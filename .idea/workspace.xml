@@ -21,25 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="63b203f3-fd94-4c9c-8b03-3c8f8eee5e61" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chairs.html" beforeDir="false" afterPath="$PROJECT_DIR$/chairs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home/HowToJoin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/howToJoin/HowToJoin.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home/testimonials/Shivani Parmar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home/testimonials/nikki3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sponsor_us/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sponsor_us/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sponsor_us/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sponsor_us/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sponsor_us/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sponsor_us/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sponsor_us/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sponsor_us/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sponsor_us/9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sponsor_us/Sponsors 2018-19.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sponsors.html" beforeDir="false" afterPath="$PROJECT_DIR$/sponsors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swe-sponsorship-package-final.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -65,9 +48,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/event" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.YAML" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/event" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/howToJoin" />
       <recent name="$PROJECT_DIR$" />
@@ -97,6 +84,7 @@
       <workItem from="1601796992611" duration="350000" />
       <workItem from="1601830637298" duration="2209000" />
       <workItem from="1604175349720" duration="2482000" />
+      <workItem from="1608237793927" duration="5238000" />
     </task>
     <servers />
   </component>
@@ -116,23 +104,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="144" y="92" key="DiffContextDialog" timestamp="1596231682320">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="459" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608253641787">
+      <screen x="0" y="25" width="1440" height="785" />
     </state>
-    <state x="144" y="92" key="DiffContextDialog/0.23.1440.797@0.23.1440.797" timestamp="1596231682320" />
+    <state x="459" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.785@0.25.1440.785" timestamp="1608253641787" />
     <state x="221" y="57" key="SettingsEditor" timestamp="1601797316130">
       <screen x="0" y="23" width="1440" height="790" />
     </state>
     <state x="221" y="57" key="SettingsEditor/0.23.1440.790@0.23.1440.790" timestamp="1601797316130" />
-    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1598853713936">
-      <screen x="0" y="23" width="1440" height="798" />
-    </state>
-    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1596231701800" />
-    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1598853713936" />
-    <state x="386" y="144" width="670" height="677" key="search.everywhere.popup" timestamp="1599372844323">
-      <screen x="0" y="23" width="1440" height="798" />
-    </state>
-    <state x="386" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1596219667978" />
-    <state x="386" y="144" width="670" height="677" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1599372844323" />
   </component>
 </project>
