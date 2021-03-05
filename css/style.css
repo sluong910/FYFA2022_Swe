@@ -1446,7 +1446,6 @@ h1, h2, h3, h4, h5,
 .image-cropper {
     width: 200px;
     height: 200px;
-    position: relative;
     overflow: hidden;
     border-radius: 50%;
   }
