@@ -331,14 +331,16 @@ h1, h2, h3, h4, h5,
   }
   #container__align {
     display: inline-block;
+    margin: auto;
+    width: 100%;
   }
   #headerTextContain {
     display: inline-block;
-    margin-left: 15px;
+    margin-right: 15px;
     vertical-align: middle;
     padding: none;
     overflow-y: hidden;
-    max-width: 100%;
+    width: 100%;
   }
   #headerText {
     width: -webkit-fit-content;
@@ -347,6 +349,8 @@ h1, h2, h3, h4, h5,
     display: inline-block;
     vertical-align: middle;
     overflow-y: hidden;
+    padding-top: 0.5rem;
+    padding-bottom: 1rem;
   }
   #menuCloseContain {
     position: relative;
@@ -374,19 +378,20 @@ h1, h2, h3, h4, h5,
     position: absolute;
   }
   #menuBarContain {
-    position: relative;
     display: inline-block;
     width: -webkit-fit-content;
     width: -moz-fit-content;
     width: fit-content;
     vertical-align: middle;
-    top: 0;
+    overflow-x: visible;
   }
   #headerContain {
     display: block;
     width: 100%;
     overflow-x: hidden;
     overflow-y: hidden;
+    margin-left: 0px;
+    margin-right: 15px;
   }
   #aboutUsSection {
     width: 100%;
@@ -402,7 +407,8 @@ h1, h2, h3, h4, h5,
     overflow-y: hidden;
   }
   iframe {
-    height: 300px;
+    width: 100%;
+    height: 220px;
   }
   #mainPageHeader {
     position: relative;
@@ -410,6 +416,12 @@ h1, h2, h3, h4, h5,
     padding-top: 1.75em;
     padding-bottom: 1em;
     max-width: 100%;
+  }
+  #indexSection {
+    display: -ms-grid;
+    display: grid;
+    margin: 0;
+    width: 100%;
   }
 }
 
@@ -1927,6 +1939,12 @@ h1, h2, h3, h4, h5,
 
 .person h3 {
   font-size: 18px;
+  margin-top: 1em;
+  margin-left: 4em;
+}
+
+.person p {
+  margin-left: 4.5em;
 }
 
 .ul-social-circle {
@@ -2019,5 +2037,6 @@ h1, h2, h3, h4, h5,
   height: 200px;
   overflow: hidden;
   border-radius: 50%;
+  margin: auto;
 }
 /*# sourceMappingURL=style.css.map */
