@@ -57,7 +57,15 @@ body {
   #mainPageHeader {
     font-size: 55px;
   }
-
+  #emailInput, #passwordInput, #loginButton, #nameInput, #confirmPasswordInput {
+    padding-bottom: 30px;
+  }
+  #signUpRedirect, #orLabel, #signUpButton {
+    padding-bottom: 10px;
+  }
+  #googleSignin {
+    padding-bottom: 5%;
+  }
   .offcanvas-menu .site-wrap {
     position: absolute;
     height: 100%;
@@ -147,24 +155,6 @@ body {
 
   .border-top {
     border-top: 1px solid #edf0f5 !important; }
-
-    // Temporary WOW Banner Addition CSS
-    #wowBannerContain {
-      margin: auto;
-      width: 100vw;
-      margin-top: 2.5em;
-    }
-
-    #wowBanner { 
-      width: 100%;
-      height: auto;
-    }
-
-    #section-about {
-      margin-top: 2.5em;
-      padding: 0;
-    }
-    // End
     
     .site-footer {
     padding: 4em 0;
